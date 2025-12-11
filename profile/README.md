@@ -63,8 +63,9 @@ We maintain and develop open tools for:
 ## 👨‍💻 Active Repositories
 | Repository | Description | Status |
 |-----------|-------------|--------|
-| **Canva-Bot** | Automated graphic design workflow bot | 🔒 Private |
+| **Canva-Bot** | Automated student management bot | 🔒 Private |
 | **Kickout-Bot** | Applicant identity & conflict detection bot | 🔒 Private |
+| **Application result-Bot** | Application status inquiries | 🔒 Private |
 | *(More public repos coming soon…)* | | |
 
 ---
